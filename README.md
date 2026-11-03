@@ -1,2 +1,2 @@
 # Marketing-Campaign-Effectiveness
-Businesses often struggle to measure how well their marketing campaigns actually perform, data is scattered across channels, platforms, and spreadsheets, making ROI hard to pin down. I built an interactive Power BI dashboard consolidating 200K+ campaign records into a single, centralized view turning fragmented data into clear, actionable insights.
+I built a 4-page Power BI dashboard to measure how well 200K marketing campaigns performed ($4.09B spend, $3.05B profit). It tracks the full funnel, from impressions to clicks to conversions to profit, and breaks results down by channel, audience, segment, location, duration and company. The goal: find out where the budget actually earns money, and where it doesn't.
